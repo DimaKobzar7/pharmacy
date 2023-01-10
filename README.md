@@ -2,6 +2,8 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+[Preview](https://pharmacy-0jhv.onrender.com/)
+
 ## Setup
 
 Make sure to install the dependencies:

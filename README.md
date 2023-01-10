@@ -1,6 +1,6 @@
 # Pharmacy
 
-[Preview](https://pharmacy-0jhv.onrender.com/)
+[Preview](https://pharmacy-0jhv.onrender.com/) (You may have to wait a bit for the download.)
 
 [Design](https://www.figma.com/file/lsctLk4zaAKnebGnBjrpAr/pharmacy?node-id=0%3A1&t=0PA0Rtm0ZfvILAlI-1)
 
@@ -42,5 +42,3 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

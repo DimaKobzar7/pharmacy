@@ -1,6 +1,6 @@
 # Pharmacy
 
-[Preview](https://pharmacy-0jhv.onrender.com/) (You may have to wait a bit for the download.)
+[Preview](https://pharmacy-0jhv.onrender.com/) (You may have to wait a bit for the download).
 
 [Design](https://www.figma.com/file/lsctLk4zaAKnebGnBjrpAr/pharmacy?node-id=0%3A1&t=0PA0Rtm0ZfvILAlI-1)
 

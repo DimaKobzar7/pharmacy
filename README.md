@@ -1,7 +1,5 @@
 # Pharmacy
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
 [Preview](https://pharmacy-0jhv.onrender.com/)
 
 [Design](https://www.figma.com/file/lsctLk4zaAKnebGnBjrpAr/pharmacy?node-id=0%3A1&t=0PA0Rtm0ZfvILAlI-1)
